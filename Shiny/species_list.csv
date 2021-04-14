@@ -1,0 +1,1705 @@
+Spp,name
+1,Common Ostrich
+2,African Penguin
+4,Great Crested Grebe
+5,Black-necked Grebe
+6,Little Grebe
+8,Black-browed Albatross
+13,Southern Giant-petrel
+14,Pintado Petrel
+16,Great-winged Petrel
+19,Soft-plumaged Petrel
+22,Antarctic Prion
+25,Great Shearwater
+26,Cory's Shearwater
+28,Tropical Shearwater
+29,Sooty Shearwater
+30,European Storm-petrel
+33,Wilson's Storm-petrel
+39,Red-tailed Tropicbird
+41,Pink-backed Pelican
+42,Great White Pelican
+43,Australian Gannet
+44,Cape Gannet
+47,White-breasted Cormorant
+48,Cape Cormorant
+49,Bank Cormorant
+50,Reed Cormorant
+51,Crowned Cormorant
+52,African Darter
+53,Greater Frigatebird
+54,Grey Heron
+55,Black-headed Heron
+56,Goliath Heron
+57,Purple Heron
+58,Great Egret
+59,Little Egret
+60,Yellow-billed Egret
+61,Cattle Egret
+62,Squacco Heron
+63,Green-backed Heron
+64,Black Heron
+65,Rufous-bellied Heron
+66,Dwarf Bittern
+67,Little Bittern
+69,Black-crowned Night-Heron
+70,White-backed Night-Heron
+71,Eurasian Bittern
+72,Hamerkop Hamerkop
+73,Marabou Stork
+74,African Openbill
+75,Saddle-billed Stork
+76,Yellow-billed Stork
+77,Woolly-necked Stork
+78,Abdim's Stork
+79,Black Stork
+80,White Stork
+81,African Sacred Ibis
+82,Southern Bald Ibis
+83,Glossy Ibis
+84,Hadeda Ibis
+85,African Spoonbill
+86,Greater Flamingo
+87,Lesser Flamingo
+88,Spur-winged Goose
+89,Egyptian Goose
+90,South African Shelduck
+91,Knob-billed Duck
+92,African Pygmy-Goose
+93,Northern Shoveler
+94,Cape Shoveler
+95,African Black Duck
+96,Yellow-billed Duck
+97,Red-billed Teal
+98,Cape Teal
+99,Hottentot Teal
+100,White-faced Duck
+101,Fulvous Duck
+102,Southern Pochard
+103,Maccoa Duck
+104,White-backed Duck
+105,Secretarybird Secretarybird
+106,Cape Vulture
+107,White-backed Vulture
+108,Lappet-faced Vulture
+109,White-headed Vulture
+110,Hooded Vulture
+111,Egyptian Vulture
+112,Palm-nut Vulture
+113,Peregrine Falcon
+114,Lanner Falcon
+115,Eurasian Hobby
+116,African Hobby
+117,Red-necked Falcon
+119,Amur Falcon
+120,Red-footed Falcon
+121,Dickinson's Kestrel
+122,Greater Kestrel
+123,Rock Kestrel
+125,Lesser Kestrel
+126,Pygmy Falcon
+127,African Cuckoo Hawk
+128,Black Kite
+129,Yellow-billed Kite
+130,Black-shouldered Kite
+131,Bat Hawk
+132,European Honey-buzzard
+133,Verreaux's Eagle
+134,Tawny Eagle
+135,Steppe Eagle
+136,Lesser Spotted Eagle
+137,Wahlberg's Eagle
+138,Long-crested Eagle
+139,Booted Eagle
+140,Ayres's Hawk-eagle
+141,African Hawk-eagle
+142,Martial Eagle
+143,African Crowned Eagle
+144,Lizard Buzzard
+145,Brown Snake-eagle
+146,Black-chested Snake-eagle
+147,Southern Banded Snake-eagle
+148,Western Banded Snake-eagle
+149,African Fish-eagle
+150,Bearded Vulture
+151,Bateleur Bateleur
+152,Jackal Buzzard
+153,Augur Buzzard
+154,Steppe Buzzard
+155,Forest Buzzard
+156,Rufous-chested Sparrowhawk
+157,Ovambo Sparrowhawk
+158,Little Sparrowhawk
+159,Black Sparrowhawk
+160,African Goshawk
+161,Shikra Shikra
+162,Gabar Goshawk
+163,Dark Chanting Goshawk
+165,Southern Pale Chanting Goshawk
+166,Western Marsh-harrier
+167,African Marsh-harrier
+168,Pallid Harrier
+169,Black Harrier
+170,Montagu's Harrier
+171,African Harrier-Hawk
+172,Osprey Osprey
+173,Coqui Francolin
+174,Crested Francolin
+176,Grey-winged Francolin
+177,Shelley's Francolin
+178,Red-winged Francolin
+179,Orange River Francolin
+180,Wedge-tailed Shearwater
+181,Cape Spurfowl
+182,Red-billed Spurfowl
+183,Natal Spurfowl
+184,Hartlaub's Spurfowl
+185,Swainson's Spurfowl
+188,Red-necked Spurfowl
+189,Common Quail
+190,Harlequin Quail
+191,Blue Quail
+192,Helmeted Guineafowl
+193,Crested Guineafowl
+196,Kurrichane Buttonquail
+197,African Rail
+198,Corn Crake
+199,African Crake
+200,Striped Crake
+201,Spotted Crake
+202,Baillon's Crake
+203,Black Crake
+204,White-winged Flufftail
+205,Red-chested Flufftail
+206,Buff-spotted Flufftail
+207,Striped Flufftail
+208,African Purple Swamphen
+209,Allen's Gallinule
+210,Common Moorhen
+211,Lesser Moorhen
+212,Red-knobbed Coot
+213,African Finfoot
+214,Grey Crowned Crane
+215,Wattled Crane
+216,Blue Crane
+217,Kori Bustard
+218,Ludwig's Bustard
+219,Denham's Bustard
+220,Karoo Korhaan
+221,Rüppell's Korhaan
+222,White-bellied Korhaan
+223,Blue Korhaan
+224,Red-crested Korhaan
+227,Black-bellied Bustard
+228,African Jacana
+229,Lesser Jacana
+230,Greater Painted-snipe
+231,African Black Oystercatcher
+232,Ruddy Turnstone
+233,Common Ringed Plover
+234,Lesser Sand Plover
+235,White-fronted Plover
+236,Chestnut-banded Plover
+237,Kittlitz's Plover
+238,Three-banded Plover
+239,Greater Sand Plover
+240,Caspian Plover
+241,Grey Plover
+242,Crowned Lapwing
+243,Black-winged Lapwing
+244,Senegal Lapwing
+245,Blacksmith Lapwing
+246,White-crowned Lapwing
+247,African Wattled Lapwing
+248,Long-toed Lapwing
+249,Great Snipe
+250,African Snipe
+251,Curlew Sandpiper
+252,Baird's Sandpiper
+253,Little Stint
+254,Red Knot
+255,Sanderling Sanderling
+256,Ruff Ruff
+257,Terek Sandpiper
+258,Common Sandpiper
+259,Green Sandpiper
+260,Spotted Redshank
+261,Common Redshank
+262,Marsh Sandpiper
+263,Common Greenshank
+264,Wood Sandpiper
+265,Black-tailed Godwit
+266,Bar-tailed Godwit
+267,Eurasian Curlew
+268,Common Whimbrel
+269,Pied Avocet
+270,Black-winged Stilt
+271,Red Phalarope
+272,Red-necked Phalarope
+273,Crab Plover
+274,Water Thick-knee
+275,Spotted Thick-knee
+276,Burchell's Courser
+277,Temminck's Courser
+278,Double-banded Courser
+279,Three-banded Courser
+280,Bronze-winged Courser
+281,Collared Pratincole
+282,Black-winged Pratincole
+283,Rock Pratincole
+284,Parasitic Jaeger
+285,Pomarine Jaeger
+286,Subantarctic Skua
+287,Kelp Gull
+288,Grey-headed Gull
+289,Hartlaub's Gull
+290,Caspian Tern
+291,Common Tern
+292,Antarctic Tern
+293,Roseate Tern
+294,Arctic Tern
+295,Sooty Tern
+296,Sandwich Tern
+297,Lesser Crested Tern
+298,Swift Tern
+299,Little Tern
+300,Damara Tern
+303,Brown Noddy
+304,White-winged Tern
+305,Whiskered Tern
+306,African Skimmer
+307,Namaqua Sandgrouse
+308,Burchell's Sandgrouse
+309,Yellow-throated Sandgrouse
+310,Double-banded Sandgrouse
+311,Speckled Pigeon
+312,African Olive-pigeon
+313,Eastern Bronze-naped Pigeon
+314,Red-eyed Dove
+315,African Mourning Dove
+316,Cape Turtle-dove
+317,Laughing Dove
+318,Namaqua Dove
+319,Tambourine Dove
+320,Blue-spotted Wood-dove
+321,Emerald-spotted Wood-dove
+322,Lemon Dove
+323,African Green-pigeon
+327,Meyer's Parrot
+328,Brown-headed Parrot
+329,Rüppell's Parrot
+330,Rosy-faced Lovebird
+331,Black-cheeked Lovebird
+332,Lilian's Lovebird
+337,Purple-crested Turaco
+338,Schalow's Turaco
+339,Grey Go-away-bird
+340,Common Cuckoo
+341,African Cuckoo
+343,Red-chested Cuckoo
+344,Black Cuckoo
+345,Thick-billed Cuckoo
+346,Great Spotted Cuckoo
+347,Levaillant's Cuckoo
+348,Jacobin Cuckoo
+350,African Emerald Cuckoo
+351,Klaas's Cuckoo
+352,Diderick Cuckoo
+353,Black Coucal
+354,Coppery-tailed Coucal
+355,Senegal Coucal
+357,Montane (Mountain) Nightjar
+358,Green Malkoha
+359,Barn Owl
+360,African Grass-owl
+361,Marsh Owl
+362,African Wood-owl
+363,African Scops-owl
+364,Southern White-faced Scops-owl
+365,Pearl-spotted Owlet
+366,African Barred Owlet
+367,Cape Eagle-owl
+368,Spotted Eagle-owl
+369,Verreaux's Eagle-owl
+370,Pel's Fishing-owl
+371,European Nightjar
+372,Rufous-cheeked Nightjar
+373,Fiery-necked Nightjar
+374,Freckled Nightjar
+375,Swamp Nightjar
+376,Square-tailed Nightjar
+377,Pennant-winged Nightjar
+378,Common Swift
+379,Pallid Swift
+380,African Black Swift
+381,Bradfield's Swift
+382,Mottled Swift
+383,White-rumped Swift
+384,Horus Swift
+385,Little Swift
+386,Alpine Swift
+387,African Palm-swift
+388,Mottled Spinetail
+389,Böhm's Spinetail
+390,Speckled Mousebird
+391,White-backed Mousebird
+392,Red-faced Mousebird
+393,Narina Trogon
+394,Pied Kingfisher
+395,Giant Kingfisher
+396,Half-collared Kingfisher
+397,Malachite Kingfisher
+398,African Pygmy-Kingfisher
+399,Woodland Kingfisher
+400,Mangrove Kingfisher
+401,Grey-headed Kingfisher
+402,Brown-hooded Kingfisher
+403,Striped Kingfisher
+404,European Bee-eater
+405,Blue-cheeked Bee-eater
+406,Madagascar Bee-eater
+407,Southern Carmine Bee-eater
+408,Böhm's Bee-eater
+409,White-fronted Bee-eater
+410,Little Bee-eater
+411,Swallow-tailed Bee-eater
+412,European Roller
+413,Lilac-breasted Roller
+414,Racket-tailed Roller
+415,Purple Roller
+416,Broad-billed Roller
+418,African Hoopoe
+419,Green Wood-hoopoe
+420,Violet Wood-hoopoe
+421,Common Scimitarbill
+422,Trumpeter Hornbill
+423,Silvery-cheeked Hornbill
+424,African Grey Hornbill
+426,Southern Yellow-billed Hornbill
+427,Crowned Hornbill
+428,Bradfield's Hornbill
+429,Monteiro's Hornbill
+430,Southern Ground-hornbill
+431,Black-collared Barbet
+432,Acacia Pied Barbet
+433,White-eared Barbet
+434,Whyte's Barbet
+435,Green Barbet
+436,Red-fronted Tinkerbird
+437,Yellow-fronted Tinkerbird
+438,Yellow-rumped Tinkerbird
+439,Crested Barbet
+440,Greater Honeyguide
+441,Scaly-throated Honeyguide
+442,Lesser Honeyguide
+443,Brown-backed Honeybird
+444,Green-backed Honeybird
+445,Ground Woodpecker
+446,Bennett's Woodpecker
+447,Golden-tailed Woodpecker
+448,Knysna Woodpecker
+449,Green-backed Woodpecker
+450,Cardinal Woodpecker
+451,Bearded Woodpecker
+452,Olive Woodpecker
+453,Red-throated Wryneck
+454,African Broadbill
+455,African Pitta
+456,Melodious Lark
+457,Monotonous Lark
+458,Rufous-naped Lark
+459,Fawn-coloured Lark
+460,Sabota Lark
+461,Karoo Lark
+463,Large-billed Lark
+464,Dusky Lark
+465,Short-clawed Lark
+467,Abyssinian (African) Hill-babbler
+468,Flappet Lark
+471,Mountain Yellow (Flycatcher-) Warbler
+472,Botha's Lark
+473,Rudd's Lark
+474,Spike-heeled Lark
+476,Baglafecht Weaver
+477,Oriole Finch
+479,Red Lark
+480,Dune Lark
+483,Gray's Lark
+484,Chestnut-backed Sparrowlark
+485,Grey-backed Sparrowlark
+486,Black-eared Sparrowlark
+488,Red-capped Lark
+490,Pink-billed Lark
+491,Sclater's Lark
+492,Stark's Lark
+493,Barn Swallow
+494,Angola Swallow
+495,White-throated Swallow
+496,Wire-tailed Swallow
+497,Blue Swallow
+498,Pearl-breasted Swallow
+499,Grey-rumped Swallow
+500,Mosque Swallow
+501,Red-breasted Swallow
+502,Greater Striped Swallow
+503,Lesser Striped Swallow
+504,South African Cliff-swallow
+506,Rock Martin
+507,Common House-martin
+508,Sand Martin
+509,Brown-throated Martin
+510,Banded Martin
+511,Black (Southern race) Saw-wing
+512,Eastern Saw-wing
+513,Black Cuckoo-shrike
+514,Ashy Tit
+515,White-breasted Cuckoo-shrike
+516,Grey Cuckoo-shrike
+517,Fork-tailed Drongo
+518,Square-tailed Drongo
+519,Eurasian Golden Oriole
+520,African Golden Oriole
+521,Black-headed Oriole
+522,Pied Crow
+523,Cape Crow
+524,White-necked Raven
+525,Grey Tit
+526,Miombo Tit
+527,Southern Black Tit
+528,Carp's Tit
+529,Rufous-bellied Tit
+530,Grey Penduline-tit
+531,Cape Penduline-tit
+532,Spotted Creeper
+533,Arrow-marked Babbler
+534,Black-faced Babbler
+535,Hartlaub's Babbler
+536,Southern Pied Babbler
+537,Bare-cheeked Babbler
+538,Boulder Chat
+539,Rockrunner Rockrunner
+540,Cape Rock-jumper
+542,Bush Blackcap
+543,Cape Bulbul
+544,African Red-eyed Bulbul
+545,Dark-capped Bulbul
+546,Terrestrial Brownbul
+547,Yellow-streaked Greenbul
+548,Tiny Greenbul
+549,Stripe-cheeked Greenbul
+550,Yellow-bellied Greenbul
+551,Sombre Greenbul
+552,Kurrichane Thrush
+555,Shelley's (incl.Kakamega) Greenbul
+556,Orange Ground-thrush
+557,Groundscraper Thrush
+558,Spotted Ground-thrush
+559,Cape Rock-thrush
+560,Sentinel Rock-thrush
+561,Short-toed Rock-thrush
+562,Miombo Rock-thrush
+563,Northern Wheatear
+564,Mountain Wheatear
+565,Little Greenbul
+566,Karoo Chat
+567,Rufous-tailed Scrub-robin
+568,Capped Wheatear
+569,Buff-streaked Chat
+570,Familiar Chat
+571,Tractrac Chat
+572,Sickle-winged Chat
+573,Mocking Cliff-chat
+574,Arnot's Chat
+575,Anteating Chat
+576,African Stonechat
+577,Whinchat Whinchat
+578,Chorister Robin-chat
+579,Red-capped Robin-chat
+580,White-browed Robin-chat
+581,Cape Robin-chat
+582,White-throated Robin-chat
+583,Karoo Scrub-robin
+584,Brown Scrub-robin
+585,Bearded Scrub-robin
+586,Kalahari Scrub-robin
+588,White-browed Scrub-robin
+589,White-starred Robin
+590,Swynnerton's Robin
+591,East Coast Akalat
+592,Thrush Nightingale
+593,Collared Palm-thrush
+594,Common Whitethroat
+595,Garden Warbler
+596,Icterine Warbler
+597,Olive-tree Warbler
+598,River Warbler
+599,Willow Warbler
+600,Yellow-bellied Eremomela
+601,Burnt-necked Eremomela
+602,Green-capped Eremomela
+603,Great Reed-warbler
+604,Lesser Swamp-warbler
+605,Barred Warbler
+606,African Reed-warbler
+607,Marsh Warbler
+608,Sedge Warbler
+609,Little Rush-warbler
+610,Barratt's Warbler
+611,Knysna Warbler
+612,Victorin's Warbler
+613,Cinnamon-breasted Warbler
+614,Barred Wren-warbler
+615,Stierling's Wren-warbler
+616,Broad-tailed Warbler
+617,Moustached Grass-warbler
+618,Cape Grassbird
+619,Rufous-eared Warbler
+620,Red-winged Warbler
+621,Long-billed Crombec
+622,Bar-throated Apalis
+623,Black-headed Apalis
+624,Rudd's Apalis
+625,Yellow-breasted Apalis
+626,Karoo Eremomela
+627,Green-backed Camaroptera
+628,Grey-backed Camaroptera
+629,Zitting Cisticola
+630,Desert Cisticola
+631,Cloud Cisticola
+632,Hunter's Cisticola
+634,Wing-snapping Cisticola
+635,Pale-crowned Cisticola
+636,Short-winged Cisticola
+637,Neddicky Neddicky
+638,Grey-backed Cisticola
+639,Wailing Cisticola
+641,Tinkling Cisticola
+642,Rattling Cisticola
+643,Singing Cisticola
+644,Red-faced Cisticola
+646,Levaillant's Cisticola
+647,Croaking Cisticola
+648,Lazy Cisticola
+649,Tawny-flanked Prinia
+650,Black-chested Prinia
+652,Evergreen Forest Warbler
+653,Namaqua Warbler
+654,Spotted Flycatcher
+655,African Dusky Flycatcher
+656,Ashy Flycatcher
+657,Grey Tit-flycatcher
+658,Chestnut-vented Tit-babbler
+659,Layard's Tit-babbler
+660,Herero Chat
+661,Marico Flycatcher
+662,Pale Flycatcher
+663,Chat Flycatcher
+664,Southern Black Flycatcher
+665,Fiscal Flycatcher
+666,Dark-capped Yellow Warbler
+667,Black-and-white Flycatcher
+668,Southern Hyliota
+669,Abyssinian Slaty-flycatcher
+670,Yellow-bellied Hyliota
+671,Yellow-throated Woodland-warbler
+672,Cape Batis
+673,Chinspot Batis
+674,Pririt Batis
+675,Pale Batis
+676,Woodward's Batis
+677,Black-throated Wattle-eye
+678,Fairy Flycatcher
+679,Livingstone's Flycatcher
+680,Blue-mantled Crested-flycatcher
+681,White-tailed Crested-flycatcher
+682,African Paradise-flycatcher
+683,Forest (Short-tailed) Batis
+685,African Pied Wagtail
+686,Cape Wagtail
+688,Mountain Wagtail
+689,Yellow Wagtail
+690,Grey Wagtail
+691,Wood Pipit
+692,African Pipit
+693,"Long-billed (Split, see Nicholson's and Long-billed) Pipit"
+694,Plain-backed Pipit
+695,Buffy Pipit
+696,Striped Pipit
+697,African Rock Pipit
+698,Tree Pipit
+699,Bushveld Pipit
+700,Short-tailed Pipit
+701,Yellow-breasted Pipit
+702,Golden Pipit
+703,Cape Longclaw
+704,Yellow-throated Longclaw
+705,Rosy-throated Longclaw
+706,Lesser Grey Shrike
+707,Common (Southern) Fiscal
+708,Red-backed Shrike
+709,Southern Boubou
+710,Swamp Boubou
+711,Crimson-breasted Shrike
+712,Black-backed Puffback
+713,Southern Tchagra
+714,Brown-crowned Tchagra
+715,Black-crowned Tchagra
+716,Anchieta's Tchagra
+717,Olive Bush-shrike
+719,Orange-breasted Bush-shrike
+720,Black-fronted Bush-shrike
+721,Gorgeous Bush-shrike
+722,Bokmakierie Bokmakierie
+723,Grey-headed Bush-shrike
+724,Magpie Shrike
+725,Eastern Nicator
+726,White-tailed Shrike
+727,White-crested Helmet-shrike
+728,Retz's Helmet-shrike
+729,Chestnut-fronted Helmet-shrike
+730,Southern White-crowned Shrike
+731,Brubru Brubru
+733,Common Starling
+734,Common Myna
+735,Wattled Starling
+736,Violet-backed Starling
+737,Cape Glossy Starling
+738,Greater Blue-eared Starling
+739,Miombo Blue-eared Starling
+740,Black-bellied Starling
+741,Sharp-tailed Starling
+742,Meves's Starling
+743,Burchell's Starling
+744,Pale-winged Starling
+745,Red-winged Starling
+746,Pied Starling
+747,Yellow-billed Oxpecker
+748,Red-billed Oxpecker
+749,Cape Sugarbird
+750,Gurney's Sugarbird
+751,Malachite Sunbird
+752,Bronzy Sunbird
+753,Orange-breasted Sunbird
+754,Copper Sunbird
+755,Marico Sunbird
+756,Purple-banded Sunbird
+757,Shelley's Sunbird
+758,Greater Double-collared Sunbird
+759,Miombo Double-collared Sunbird
+760,Southern Double-collared Sunbird
+761,Neergaard's Sunbird
+762,Variable Sunbird
+763,White-bellied Sunbird
+764,Dusky Sunbird
+765,Grey Sunbird
+766,Olive Sunbird
+767,Eastern Double-collared Sunbird
+769,Plain-backed Sunbird
+770,Western Violet-backed Sunbird
+771,Collared Sunbird
+772,Amethyst Sunbird
+774,Scarlet-chested Sunbird
+777,"African Yellow (Split, See Northern and Southern Yellow White-eye) White-eye"
+778,Streaky Seedeater
+779,Red-billed Buffalo-weaver
+780,White-browed Sparrow-weaver
+782,Chestnut-backed Sparrow-weaver
+783,Sociable Weaver
+784,House Sparrow
+785,Great Sparrow
+786,Cape Sparrow
+788,Yellow-throated Petronia
+789,Scaly-feathered Finch
+790,Dark-backed Weaver
+791,Spectacled Weaver
+792,Lesser Masked-weaver
+793,Red-headed Weaver
+796,Chestnut Weaver
+797,Village Weaver
+799,Cape Weaver
+800,Yellow Weaver
+801,Golden Weaver
+802,Southern Brown-throated Weaver
+803,Southern Masked-weaver
+804,Thick-billed Weaver
+805,Red-billed Quelea
+806,Red-headed Quelea
+807,Cardinal Quelea
+808,Southern Red Bishop
+809,Black-winged Bishop
+810,Yellow Bishop
+812,Yellow-crowned Bishop
+813,Red-collared Widowbird
+814,White-winged Widowbird
+815,Yellow-mantled Widowbird
+816,Fan-tailed Widowbird
+817,Crimson-rumped Waxbill
+818,Long-tailed Widowbird
+819,Lesser Seedcracker
+820,Red-headed Finch
+821,Cut-throat Finch
+822,Magpie Mannikin
+823,Bronze Mannikin
+824,Red-backed Mannikin
+825,Swee Waxbill
+826,Yellow-bellied Waxbill
+827,Green Twinspot
+828,Red-faced Crimson-wing
+829,Orange-winged Pytilia
+830,Green-winged Pytilia
+831,Pink-throated Twinspot
+832,Red-throated Twinspot
+833,African Firefinch
+834,Reichard's (Stripe-breasted) Seedeater
+835,Jameson's Firefinch
+836,Brown Firefinch
+837,Red-billed Firefinch
+838,Orange-breasted Waxbill
+839,Blue Waxbill
+840,Violet-eared Waxbill
+841,Black-faced Waxbill
+842,Grey Waxbill
+843,Common Waxbill
+844,African Quailfinch
+845,Locustfinch Locustfinch
+846,Pin-tailed Whydah
+847,Shaft-tailed Whydah
+849,Dusky Indigobird
+850,Purple Indigobird
+851,Village Indigobird
+852,Long-tailed Paradise-whydah
+853,Broad-tailed Paradise-whydah
+854,Cuckoo Finch
+855,Cape Siskin
+856,Drakensberg Siskin
+857,Cape Canary
+858,Forest Canary
+859,Yellow-fronted Canary
+860,Black-throated Canary
+861,Black-headed Canary
+863,Brimstone Canary
+864,Greater Sheathbill
+865,White-throated Canary
+866,Yellow Canary
+867,Streaky-headed Seedeater
+868,Black-eared Seedeater
+869,Protea Seedeater
+870,Common Chaffinch
+871,Lark-like Bunting
+872,Cinnamon-breasted Bunting
+873,Cape Bunting
+874,Golden-breasted Bunting
+875,Cabanis's Bunting
+881,Flesh-footed Shearwater
+883,Malagasy Pond-heron
+884,Mute Swan
+885,Garganey Garganey
+886,Northern Pintail
+887,Taita Falcon
+888,Sooty Falcon
+889,Grey Kestrel
+892,Streaky-breasted Flufftail
+893,American Purple Gallinule
+894,Eurasian Oystercatcher
+895,Pectoral Sandpiper
+897,Red-necked Stint
+898,Madagascar Pratincole
+901,Sabine's Gull
+902,Gull-billed Tern
+903,Black Tern
+904,Scarce Swift
+905,Green Tinkerbird
+906,Pallid Honeyguide
+907,Speckle-throated Woodpecker
+908,Mascarene Martin
+909,Green-headed Oriole
+910,Rufous-tailed Palm-thrush
+911,Eurasian Reed-warbler
+912,Greater Swamp-warbler
+913,Red-faced Crombec
+914,Red-capped Crombec
+915,Chirping Cisticola
+916,Roberts's Warbler
+917,Collared Flycatcher
+918,Souza's Shrike
+919,Olive-headed Weaver
+920,Cinderella Waxbill
+921,Lemon-breasted Canary
+922,American Golden Plover
+923,Barred Long-tailed Cuckoo
+926,Buff-breasted Sandpiper
+927,Chirinda Apalis
+928,Mountain Pipit
+929,Wilson's Phalarope
+932,Franklin's Gull
+933,Common Black-headed Gull
+935,Royal Tern
+936,Bridled Tern
+938,White-cheeked Tern
+940,Rock Dove
+941,Rose-ringed Parakeet
+942,Ross's Turaco
+944,Bar-tailed Trogon
+945,Zanzibar Sombre Greenbul
+946,White-chested Alethe
+947,Wood Warbler
+949,Basra Reed-warbler
+954,Hildebrandt's Francolin
+955,Little Ringed Plover
+956,Forbes's Plover
+957,Common Snipe
+959,Shining Blue Kingfisher
+960,White-headed Barbet
+962,Red-rumped Swallow
+963,Red-throated (Angolan Cliff) Swallow
+964,White-headed Saw-wing
+965,Grey-olive Greenbul
+966,Sooty Chat
+969,Blackcap Blackcap
+971,Hartlaub's Marsh Widowbird
+973,African Citril
+974,Hybrid Red/Yellow-billed Duck
+976,Woodchat Shrike
+979,Long-legged Buzzard
+980,Chukar Partridge
+981,Broad-billed Sandpiper
+982,Slaty Egret
+984,Northern Giant-petrel
+985,Temminck's Stint
+987,King Penguin
+988,Wilson's Indigobird
+989,House Crow
+992,Eleonora's Falcon
+997,White-rumped Sandpiper
+1000,Twinspot Indigobird
+1004,Common Redstart
+1005,European Turtle-dove
+1006,Eurasian Sparrowhawk
+1009,Hudsonian Godwit
+1010,Isabelline Wheatear
+1013,Lesser Frigatebird
+1014,Lesser Yellowlegs
+1015,Little Blue Heron
+1016,Mallard Duck
+1017,Mandarin Duck
+1021,Common Peacock
+1022,European Pied Flycatcher
+1023,Pied Wheatear
+1024,Plumheaded Parakeet
+1027,Red-footed Booby
+1028,Red-throated Pipit
+1029,Rüppell's Vulture
+1031,Spur-winged Lapwing
+1034,White-throated Bee-eater
+1035,Northern Black Korhaan
+1036,White-browed Coucal
+1037,Barlow's Lark
+1038,Drakensberg Rock-jumper
+1039,Pacific Golden Plover
+1049,Drakensberg Prinia
+1050,Brown-breasted Barbet
+1053,Citrine Wagtail
+1054,Common Chiffchaff
+1058,Hybrid Yellow/Red-billed Oxpecker
+1059,Long-tailed Pipit
+1062,White-bellied Kingfisher
+1063,Swamp Flycatcher
+1064,White-winged Swamp-(Scrub-) Warbler
+1065,Slender-billed Weaver
+1066,Black-faced Canary
+1067,Papyrus Yellow (Thin-billed Flycatcher-) Warbler
+1068,Green-headed Sunbird
+1078,Slender-billed Gull
+1079,Indian Yellow-nosed Albatross
+1085,Grey-winged Robin-chat
+1086,Cabanis's Greenbul
+1087,Rufous Flycatcher-thrush
+1089,Orange-cheeked Waxbill
+1090,Fawn-breasted Waxbill
+1093,Velvet-mantled Drongo
+1098,Greater Spotted Eagle
+1099,Buff-throated Apalis
+1102,Australian Budgy
+1103,Yellow-throated Apalis
+1104,Karoo Thrush
+1105,Olive Thrush
+1106,Evergreen Forest (incl. Cameroon) Warbler
+1107,Cinnamon Bracken-warbler
+1109,Brown-chested Alethe
+1111,Yellow-whiskered Greenbul
+1112,Cameroon (~ Montane) Greenbul
+1113,Honeyguide Greenbul
+1114,Black-faced Rufous Warbler
+1115,Bangwa Forest-warbler
+1116,Green-throated Sunbird
+1117,Olive-bellied Sunbird
+1118,Golden-winged Sunbird
+1121,Eastern Bearded Greenbul
+1122,Cameroon (~ Blue-headed) Sunbird
+1125,Yellow-bellied Wattle-eye
+1126,White-bellied Crested-flycatcher
+1127,African Blue-flycatcher
+1128,Dusky Crested-flycatcher
+1129,Black-crowned Waxbill
+1130,Naked-faced Barbet
+1131,Blue-breasted Kingfisher
+1132,Least Honeyguide
+1133,Grey-chested Illadopsis
+1135,Yellow-breasted Boubou
+1139,Fernando Po Oliveback
+1140,Chestnut-breasted Negrofinch
+1141,Grey-headed Negrofinch
+1142,Sao Tome Chestnut-winged Starling
+1144,Woodhouse's (Red-headed) Antpecker
+1145,Icterine Greenbul
+1146,Cameroon Olive-greenbul
+1148,Brown-throated (Scarlet-spectacled) Wattle-eye
+1150,Brown-capped Weaver
+1151,Black-billed Weaver
+1152,Vieillot's Black Weaver
+1153,Vitelline Masked-weaver
+1155,Banded Prinia
+1158,African Piculet
+1159,Thick-billed Seedeater
+1163,Western Bluebill
+1165,Red-bellied (Black-headed) Paradise-flycatcher
+1168,African Thrush
+1169,Green Longtail
+1171,Orange River White-eye
+1172,Cape White-eye
+1181,Brown Illadopsis
+1183,Eastern Clapper Lark
+1185,Damara Hornbill
+1187,Black-necked Weaver
+1188,Buff-spotted Woodpecker
+1189,Olive-green Camaroptera
+1190,Red-headed Bluebill
+1191,Red-tailed (Common) Bristle-bill
+1192,Rufous-vented Paradise-flycatcher
+1193,Scaly-breasted Illadopsis
+1194,Yellow-throated Greenbul
+1200,Somali Ostrich
+1210,White-throated Francolin
+1212,Forest Francolin
+1216,Ahanta Francolin
+1218,Double-spurred Francolin
+1224,Clapperton's Spurfowl
+1228,Grey-striped Francolin
+1234,Jackson's Francolin
+1236,Yellow-necked Spurfowl
+1246,Scaly Francolin
+1250,Stone Partridge
+1256,Ring-necked Francolin
+1260,Vulturine Guineafowl
+1274,Common Teal
+1276,Blue-winged Teal
+1280,Eurasian Widgeon
+1286,Greylag Goose
+1294,Ring-necked Duck
+1298,Tufted Duck
+1308,Barnacle Goose
+1332,Red-crested Pochard
+1334,Ruddy Duck
+1338,Hartlaub's Duck
+1340,Ruddy Shelduck
+1342,Common Shelduck
+1344,Quail Plover (Lark) Buttonquail
+1346,Hottentot Buttonquail
+1350,Thick-billed Honeyguide
+1352,Spotted Honeyguide
+1356,Willcocks's Honeyguide
+1364,Cassin's Honeyguide
+1366,Mombasa Woodpecker
+1368,Brown-eared Woodpecker
+1370,Little Green (Golden-backed) Woodpecker
+1372,Nubian Woodpecker
+1374,Fine-spotted Woodpecker
+1376,Tullberg's (Fine-banded) Woodpecker
+1384,Grey-headed Woodpecker
+1388,Little Grey Woodpecker
+1390,Gabon Woodpecker
+1392,Grey Woodpecker
+1394,Speckle-breasted (Uganda Spotted) Woodpecker
+1396,Fire-bellied Woodpecker
+1400,Golden-crowned (Yellow-crested) Woodpecker
+1402,Eurasian Wryneck
+1404,Elliot's Woodpecker
+1406,Grey Woodpecker
+1410,Brown-backed Woodpecker
+1414,Yellow-spotted Barbet
+1416,Grey-throated Barbet
+1418,Bristle-nosed Barbet
+1422,Double-toothed Barbet
+1426,Bearded Barbet
+1428,Black-billed Barbet
+1436,Vieillot's Barbet
+1438,Red-rumped Tinkerbird
+1440,Western (Green-) Tinkerbird
+1442,Moustached (Green-) Tinkerbird
+1446,Speckled Tinkerbird
+1448,Yellow-throated Tinkerbird
+1452,D'Arnaud's (incl.Usambiro) Barbet
+1454,Red-and-yellow Barbet
+1458,Yellow-billed Barbet
+1462,Red-fronted Barbet
+1468,Hairy-breasted Barbet
+1470,Spot-flanked Barbet
+1472,Black-throated Barbet
+1474,White-thighed Hornbill
+1476,Black-casqued (Black-wattled) Hornbill
+1478,Brown-cheeked Hornbill
+1480,Yellow-casqued (~Wattled) Hornbill
+1482,Piping (White-tailed) Hornbill
+1484,Black-and-white-casqued Hornbill
+1486,White-crested Hornbill
+1488,Red-billed Dwarf Hornbill
+1490,Von der Decken's Hornbill
+1492,African Pied Hornbill
+1494,Eastern (Northern) Yellow-billed Hornbill
+1496,Black Dwarf Hornbill
+1498,Hemprich's Hornbill
+1500,Jackson's Hornbill
+1502,Western Red-billed Hornbill
+1504,Pale-billed Hornbill
+1508,Northern Red-billed Hornbill
+1510,Northern (Abyssinian) Ground-hornbill
+1512,Eurasian Hoopoe
+1516,White-headed Wood-hoopoe
+1518,Forest Wood-hoopoe
+1524,Black Wood-hoopoe
+1526,Abyssinian Scimitar-bill
+1530,Abyssinian Roller
+1532,Blue-bellied Roller
+1534,Blue-throated Roller
+1552,Common Kingfisher
+1556,Dwarf Kingfisher
+1558,Madagascar Pygmy-Kingfisher
+1560,Chocolate-backed Kingfisher
+1566,Black-headed Bee-eater
+1568,Red-throated Bee-eater
+1570,Black Bee-eater
+1572,Rosy Bee-eater
+1574,Blue-headed Bee-eater
+1576,Northern Carmine Bee-eater
+1578,Cinnamon-chested Bee-eater
+1580,Little Green Bee-eater
+1582,Somali Bee-eater
+1584,Blue-breasted (White-cheeked) Bee-eater
+1588,White-headed Mousebird
+1590,Blue-naped Mousebird
+1592,Dusky Long-tailed Cuckoo
+1594,Olive Long-tailed Cuckoo
+1596,Green Malkoha
+1620,Madagascar Cuckoo
+1626,Black-throated Coucal
+1628,Blue-headed Coucal
+1636,Fischer's Lovebird
+1638,Yellow-collared Lovebird
+1640,Red-headed Lovebird
+1648,Vasa Parrot
+1650,Grey-headed Parrot Parrot
+1656,Red-fronted Parrot
+1658,Orange (Red-) bellied Parrot
+1660,Senegal Parrot
+1664,Grey Parrot
+1672,Bates's Swift
+1676,Nyanza Swift
+1684,Cassin's Spinetail
+1690,Black (Chapin's) Spinetail
+1696,Great Blue Turaco
+1698,White-bellied Go-away-bird
+1700,Bare-faced Go-away-bird
+1702,Western Grey Plantain-eater
+1704,Eastern Grey Plantain-eater
+1708,Violet Turaco
+1710,Livingstone's Turaco
+1712,Bannerman's Turaco
+1716,Fischer's Turaco
+1718,Hartlaub's Turaco
+1720,White-crested Turaco
+1724,Yellow-billed (Verraux's/Black-tip Crested) Turaco
+1726,Guinea Turaco
+1730,Black-billed Turaco
+1738,Abyssinian (Long-eared) Owl
+1740,Short-eared Owl
+1754,Greyish Eagle-Owl
+1758,Fraser's Eagle-owl
+1764,Red-chested Owlet
+1780,Sokoke Scops-owl
+1790,Common (Eurasian) Scops-owl
+1792,Northern White-faced Scops-owl
+1806,Black-shouldered Nightjar
+1814,Slender-tailed Nightjar
+1816,Long-tailed Nightjar
+1818,Donaldson-smith's Nightjar
+1824,Sombre (Dusky) Nightjar
+1826,Plain Nightjar
+1830,Nubian Nightjar
+1838,Standard-winged Nightjar
+1850,Western Bronze-naped Pigeon
+1858,Common Wood-pigeon
+1864,Cameroon Olive-pigeon
+1872,Adamawa Turtle-dove
+1874,Dusky (Pink-breasted) Turtle-dove
+1878,African Collared-Dove (Rose-grey) Dove
+1880,Vinaceous Dove
+1888,Bruce's Green-pigeon
+1890,Black-billed Wood-dove
+1892,Blue-headed Wood-dove
+1900,Buff-crested Bustard
+1902,Savile's Bustard
+1906,Hartlaub's Bustard
+1910,Heuglin's Bustard
+1918,Black (Northern) Crowned-crane
+1934,Little Crake
+1944,White-spotted Flufftail
+1958,Black-faced Sandgrouse
+1960,Chestnut-bellied Sandgrouse
+1962,Lichtenstein's Sandgrouse
+1968,Four-banded Sandgrouse
+1970,Spotted Sandgrouse
+1980,Great Knot
+1988,Jack Snipe
+2000,Senegal Thick-knee
+2002,Kentish Plover
+2012,Sociable Lapwing
+2014,White-tailed Lapwing
+2018,Brown-chested Lapwing
+2020,Black-headed Lapwing
+2026,Somali Courser
+2028,Grey Pratincole
+2032,Egyptian Plover
+2042,Heuglin's Gull
+2052,Common Gull
+2058,Sooty (Hemprich's) Gull
+2070,Saunders's Tern
+2074,Levant Sparrowhawk
+2076,Chestnut-flanked Sparrowhawk
+2078,Red-thighed (Western Little) Sparrowhawk
+2088,Red-chested Goshawk
+2096,Imperial Eagle
+2100,Grasshopper Buzzard
+2104,Red-necked (Red-tailed) Buzzard
+2112,Mountain Buzzard
+2114,Scissor-tailed (African Swallow-tailed) Kite
+2116,Beaudouin's Snake-eagle
+2118,Short-toed(incl.Beaudouin's) Snake-eagle
+2124,Congo Serpent-eagle
+2136,Eastern Chanting-goshawk
+2144,Cassin's Hawk-eagle
+2146,Long-tailed Hawk
+2152,Fox Kestrel
+2162,Common Kestrel
+2188,Dimorphic (Mascarene Reef-) Egret
+2190,Western Reef Heron
+2192,Snowy Egret
+2202,Olive (Green) Ibis
+2262,Rufous-sided Broadbill
+2264,Grey-headed Broadbill
+2274,Yellow-billed Shrike
+2276,White-rumped (Northern White-crowned) Shrike
+2278,Long-tailed Fiscal
+2280,Taita Fiscal
+2284,Grey-backed Fiscal
+2286,Emin's Shrike
+2288,Red- (Rufous-) tailed (Isabelline) Shrike
+2290,Mackinnon's Shrike
+2294,Southern Grey Shrike
+2296,Masked Shrike
+2298,Somali Fiscal
+2300,Magpie (Northern Long-tailed) Shrike
+2310,West African Batis
+2320,(Eastern) Black-headed Batis
+2322,Angola Batis
+2326,Pygmy Batis
+2330,Senegal Batis
+2340,Petit's Cuckoo-shrike
+2342,Red-shouldered Cuckoo-shrike
+2344,Purple-throated Cuckoo-shrike
+2346,Blue Cuckoo-shrike
+2362,Dwarf Raven (Somali) Crow
+2368,Fan-tailed Raven
+2370,Brown-necked Raven
+2374,Shining Drongo
+2384,Pink-footed Puffback
+2386,Northern Puffback
+2388,Pringle's Puffback
+2390,Large-billed (Sabine's) Puffback
+2392,Red-eyed (Black-shouldered) Puffback
+2394,Red-cheeked Wattle-eye
+2398,Chestnut Wattle-eye
+2400,White-spotted Wattle-eye
+2402,Black-necked Wattle-eye
+2404,Jameson's Wattle-eye
+2406,White-tailed Blue-flycatcher
+2408,Little Yellow Flycatcher
+2410,Chestnut-capped Flycatcher
+2420,Mountain Sooty Boubou
+2424,Common (Yellowcrowned) Gonolek
+2428,Black-headed Gonolek
+2430,Slate-colored Boubou
+2432,Sooty Boubou
+2436,"Luehder's (incl. Orange-breasted, Gabela) Bush-shrike"
+2438,Papyrus Gonolek
+2440,Red-naped Bush-shrike
+2448,Fiery-breasted Bush-shrike
+2450,Green-breasted Bush-shrike
+2452,Lagden's Bush-shrike
+2454,Monteiro's Bush-shrike
+2456,African Shrike-flycatcher
+2460,Western Black-headed Oriole
+2464,Black-winged Oriole
+2466,Black-tailed (~ Montane) Oriole
+2468,Black-billed Magpie
+2470,Banded Wattle-eye
+2472,Yellow-crested Helmet-shrike
+2474,Chestnut-bellied (Red-billed) (incl.Gabon) Helmet-shrike
+2478,Grey-crested Helmet-shrike
+2480,Gabon Helmet-shrike
+2484,Piapiac Piapiac
+2490,Rosy-patched Bush-shrike
+2496,Three-streaked (James's) Tchagra
+2498,Grey-green Bush-shrike
+2500,Doherty's Bush-shrike
+2502,Mount Kupe (Serle's) Bush-shrike
+2504,Many-colored Bush-shrike
+2508,Bedford's Paradise-flycatcher
+2516,Annobon Paradise-flycatcher
+2518,Blue-headed Crested-flycatcher
+2536,Grey-necked Picathartes
+2540,Fire-crested Alethe
+2544,African Grey  (incl.Somali) Flycatcher
+2550,Brown-tailed (Rock) Chat
+2552,Moorland (Alpine) Chat
+2556,Brown-backed Scrub-robin
+2558,Black Scrub-robin
+2560,Spotted Palm (~Morning-thrush) Thrush
+2564,White-bellied Robin-chat
+2566,White-crowned Robin-chat
+2570,Blue-shouldered Robin-chat
+2572,White-headed Robin-chat
+2574,Snowy-crowned Robin-chat
+2576,Rueppell's Robin-chat
+2578,Silverbird Silverbird
+2586,White-browed Forest-flycatcher
+2592,Irania (White-throated) Robin
+2596,Common Nightingale
+2600,White-eyed Slaty-flycatcher
+2604,Nimba (West African Black-) Flycatcher
+2606,Yellow-eyed Black-flycatcher
+2608,Northern Black Flycatcher
+2616,Little Rock-thrush
+2618,Mountain (Rufous-tailed/European) Rock-thrush
+2628,Cassin's Flycatcher
+2630,Dusky-blue Flycatcher
+2634,Gambaga Flycatcher
+2636,Sooty Flycatcher
+2638,Chapin's Flycatcher
+2640,Olivaceous Flycatcher
+2642,Yellow-footed Flycatcher
+2650,Northern Anteating-chat
+2652,White-fronted Black-Chat
+2658,Finsch's Flycatcher-thrush
+2660,White-tailed Ant-thrush
+2662,Red-tailed Ant-thrush
+2664,Heuglin's Wheatear
+2670,Desert Wheatear
+2674,Black-eared Wheatear
+2680,Mourning Wheatear
+2682,Abyssinian Black Wheatear
+2684,Red-rumped Wheatear
+2690,Schalow's Wheatear
+2710,Equatorial Akalat
+2720,Forest Robin
+2728,White-crowned Cliff-chat
+2730,White-winged Cliff-chat
+2732,Taita Thrush
+2750,Bare-eyed Thrush
+2758,Angola Cave-chat
+2760,Kivu Ground-thrush
+2764,Crossley's Ground-thrush
+2768,Abyssinian Ground-thrush
+2774,Copper-tailed Glossy-starling
+2776,Purple-headed Glossy-starling
+2778,Golden-breasted Starling
+2784,Long-tailed Starling
+2786,Bronze-tailed Glossy-starling
+2788,Hildebrandt's Starling
+2790,Chestnut-bellied Starling
+2792,Purple Glossy-starling
+2794,Rueppell's (~ Long-tailed) Glossy-starling
+2796,Shelley's Starling
+2798,Splendid Glossy-starling
+2800,Superb Starling
+2804,Chestnut-winged Starling
+2806,Neumann's Starling
+2814,Bristle-crowned Starling
+2816,Slender-billed Starling
+2818,Waller's Starling
+2820,Abbott's Starling
+2822,Sharpe's Starling
+2824,Kenrick's Starling
+2826,Narrow-tailed Starling
+2828,Stuhlmann's Starling
+2832,Magpie Starling
+2834,White-crowned Starling
+2836,Fischer's Starling
+2850,Mouse-coloured Penduline-tit
+2852,Yellow (West African) Penduline-tit
+2854,Sennar Penduline-tit
+2856,White-shouldered (Black) Tit
+2858,Cinnamon-breasted Tit
+2860,White-bellied Tit
+2868,Red-throated Tit
+2870,Dusky Tit
+2872,White-winged (Black) Tit
+2876,Acacia (Somali/Northern Grey) Tit
+2878,Tit-hylia Tit-hylia
+2882,West African Swallow
+2884,Pale Crag Martin
+2886,Ethiopian Swallow
+2888,Forest Swallow
+2890,Pied-winged Swallow
+2892,Red-chested Swallow
+2896,White-throated Blue Swallow
+2902,Preuss's (Cliff) Swallow
+2914,Black  (Northern race) Saw-wing
+2920,Petit's Saw-wing
+2924,Mountain Saw-wing
+2926,Square-tailed Saw-wing
+2928,Fanti Saw-wing
+2944,Ansorge's Greenbul
+2946,Plain (Cameroon Sombre) Greenbul
+2948,Slender-billed Greenbul
+2950,Little Grey Greenbul
+2958,Stripe-faced Greenbul
+2960,Sjostedt's Honeyguide (White-tailed) Greenbul
+2962,Grey-headed Bristle-bill
+2970,Golden Greenbul
+2972,Joyful Greenbul
+2976,Simple Greenbul
+2978,Western Bearded Greenbul
+2980,Red-tailed Greenbul
+2982,White-bearded Greenbul
+2984,Yellow-bearded Greenbul
+2992,Comoro Bulbul
+2994,Spotted Greenbul
+2996,Yellow-spotted (Western) Nicator
+2998,Fischer's Greenbul
+3002,White-throated Greenbul
+3006,Baumann's (Olive-) Greenbul
+3012,Toro Olive-greenbul
+3020,Grey-headed Greenbul
+3022,Red-tailed Leaflove
+3024,Northern Brownbul
+3032,Dodson's Bulbul
+3040,Swamp Palm Greenbul
+3056,Taita Apalis
+3070,Grey Apalis
+3074,Black-throated Apalis
+3076,Karamoja Apalis
+3078,Black-capped Apalis
+3082,Chestnut-throated Apalis
+3084,Black-collared Apalis
+3090,Grey Wren-warbler
+3092,Miombo (Pale)  (incl.Stierling's) Wren-warbler
+3094,Yellow-browed Camaroptera
+3098,Rock-loving Cisticola
+3102,Tabora Cisticola
+3104,Lynes's Cisticola
+3108,Aberdare Cisticola
+3110,Chattering Cisticola
+3112,Boran Cisticola
+3114,Pectoral-patch Cisticola
+3118,Carruthers's Cisticola
+3122,Chubb's Cisticola
+3124,Ashy Cisticola
+3128,Dorst's Cisticola
+3130,Black-backed (Black-necked Cloud) Cisticola
+3132,Coastal Cisticola
+3136,Whistling Cisticola
+3138,Luapula Cisticola
+3142,Winding Cisticola
+3146,Tiny Cisticola
+3152,Stout Cisticola
+3154,Red-pate (incl.Mongalla) Cisticola
+3156,Rufous Cisticola
+3166,Trilling Cisticola
+3168,Red-winged Grey Warbler
+3170,Grey-capped Warbler
+3174,Oriole Warbler
+3176,Buff-bellied Warbler
+3180,White-chinned Prinia
+3184,River Prinia
+3188,Pale Prinia
+3192,Red-fronted Apalis
+3194,"Scaly-fronted (Cricket Warbler,Longtail) Warbler"
+3196,Fernando Po Speirops
+3198,Abyssinian (White-breasted) White-eye
+3204,Kulal White-eye
+3214,Montane (Broad-ringed) White-eye
+3216,Taita White-eye
+3218,Forest (Green) White-eye
+3228,Moustached Warbler
+3230,Madagascar Swamp-warbler
+3262,Green-backed Eremomela
+3266,Rufous- (Brown-) crowned Eremomela
+3268,Yellow-vented Eremomela
+3270,Senegal Eremomela
+3272,Turner's Eremomela
+3276,Upcher's Warbler
+3278,Olivaceous Warbler
+3280,Melodious Warbler
+3282,Green Hylia
+3288,Blackcap Illadopsis
+3290,Puvel's Illadopsis
+3292,Mountain Illadopsis
+3296,Pale-breasted Illadopsis
+3300,White-throated Mountain-babbler
+3302,Red-collared Mountain-babbler
+3308,Grey Longbill
+3310,Yellow Longbill
+3312,Kemp's Longbill
+3356,Banded Parisoma
+3358,Brown Parisoma
+3364,Capuchin Babbler
+3366,Western Bonelli's Warbler
+3370,Uganda Woodland-warbler
+3374,Black-capped Woodland-warbler
+3382,Brown Woodland-warbler
+3384,Ruwenzori Hill-babbler
+3394,Subalpine Warbler
+3396,Spectacled Warbler
+3400,Lesser Whitethroat
+3426,Northern Crombec
+3428,Lemon-bellied Crombec
+3430,Somali (Long-billed) Crombec
+3432,White-browed Crombec
+3436,Green Crombec
+3440,Scaly Chatterer
+3444,Hinde's Pied-babbler
+3446,Northern Pied-babbler
+3452,Brown Babbler
+3454,Blackcap Babbler
+3456,Rufous Chatterer
+3458,Sharpe's Pied-babbler
+3462,Scaly Babbler
+3464,Dusky Babbler
+3474,Bar-tailed Lark
+3484,Somali (Rufous) Short-toed Lark
+3486,Greater Short-toed Lark
+3500,Fischer's Finch- (Sparrow-) Lark
+3502,Black-crowned Finch- (Sparrow-) Lark
+3504,Chestnut-headed Finch- (Sparrow-) Lark
+3506,Crested Lark
+3508,Sun Lark
+3510,Thekla Lark
+3520,Pink-breasted Lark
+3528,White-tailed (~ Bush) Lark
+3530,Angola Lark
+3534,Singing (~ Bush) Lark
+3536,Collared Lark
+3546,Red-winged (~ Bush) Lark
+3550,Agulhas Clapper Lark
+3552,Friedmann's Lark
+3558,Williams's Lark
+3560,Rufous-rumped Lark
+3562,Short-tailed Lark
+3564,Thick-billed Lark
+3570,Grey-headed Sunbird
+3574,Amani Sunbird
+3576,Pygmy Sunbird
+3580,Violet-tailed Sunbird
+3582,Scarlet-tufted (Fraser's) Sunbird
+3584,Mouse-brown Sunbird
+3588,Eastern Violet-backed Sunbird
+3590,Kenya (Eastern) Violet-backed Sunbird
+3592,Green (Yellow-chinned) Sunbird
+3602,Reichenbach's Sunbird
+3604,Buff-throated Sunbird
+3608,Carmelite Sunbird
+3610,Hunter's Sunbird
+3612,Ludwig's (Montane) Double-collared Sunbird
+3622,Bates's Sunbird
+3626,Orange-tufted Sunbird
+3628,Violet-breasted Sunbird
+3630,Splendid Sunbird
+3638,Red-chested Sunbird
+3640,Shining Sunbird
+3646,Red-tufted (~ Malachite) Sunbird
+3650,Tiny Sunbird
+3660,Northern Double-collared Sunbird
+3670,Little Green Sunbird
+3672,Superb Sunbird
+3674,Tacazze Sunbird
+3676,Tsavo Sunbird
+3678,Ursula's (~ Mouse-coloured) Sunbird
+3680,Blue-headed Sunbird
+3682,Blue-throated Brown Sunbird
+3684,Black-bellied Sunbird
+3686,Beautiful Sunbird
+3688,Sharpe's Longclaw
+3692,Jackson's Pipit
+3696,Tawny Pipit
+3698,Malindi Pipit
+3700,Long-legged Pipit
+3706,Kimberley Pipit
+3712,Sokoke Pipit
+3718,White-billed Buffalo-weaver
+3722,Brown Twinspot
+3726,Abyssinian Crimson-wing
+3730,White-headed Buffalo-weaver
+3732,Black-faced (-lored) Waxbill
+3734,Black-cheeked (Red-rumped) Waxbill
+3738,Anambra Waxbill
+3740,Kandt's Waxbill
+3742,Lavender Waxbill
+3744,Black-rumped Waxbill
+3746,Fire-fronted Bishop
+3748,Orange (Northern Red) Bishop
+3750,Black Bishop
+3752,Jackson's Widowbird
+3754,Zanzibar (Red) Bishop
+3756,Mountain Marsh (Buff-shouldered) Widowbird
+3760,Dybowski's Twinspot
+3766,Rufous-tailed Weaver
+3768,Bar-breasted Firefinch
+3776,Black-throated(incl. Black-faced) Firefinch
+3778,Black-bellied Firefinch
+3780,Rock Firefinch
+3784,African (Warbling) Silverbill
+3786,Pangani Longclaw
+3800,Red-bellied Malimbe
+3802,Ibadan Malimbe
+3804,Crested Malimbe
+3806,Blue-billed (Gray's) Malimbe
+3810,Red-headed Malimbe
+3812,Red-vented Malimbe
+3816,White Wagtail
+3820,White-collared Oliveback
+3822,Grey-headed Oliveback
+3824,White-breasted Negrofinch
+3826,Pale-fronted Negrofinch
+3828,Red-billed (Black-chinned) Quailfinch
+3830,Compact Weaver
+3834,Parrot-billed Sparrow
+3836,Swahili Sparrow
+3838,Swainson's Sparrow
+3840,Kenya Rufous-sparrow
+3842,Somali Sparrow
+3844,Kordofan Rufous Sparrow
+3846,Chestnut Sparrow
+3852,Northern Grey-headed Sparrow
+3860,Sudan Golden-sparrow
+3870,Bush Petronia
+3874,Yellow-spotted Petronia
+3876,Donaldson-Smith's Sparrow-weaver
+3878,Chestnut-crowned Sparrow-weaver
+3884,Maxwell's Black Weaver
+3888,Orange Weaver
+3894,Bannerman's Weaver
+3898,Golden Palm Weaver
+3902,Taveta Golden Weaver
+3904,Northern Brown-throated Weaver
+3908,Yellow-capped Weaver
+3910,Rueppell's Weaver
+3912,Clarke's Weaver
+3914,Heuglin's Masked-weaver
+3916,Golden-backed Weaver
+3918,Little Weaver
+3922,Black-headed (Yellow-backed) (incl. Victoria Maske Weaver
+3930,Preuss's Weaver
+3934,Speke's Weaver
+3940,Northern Masked-weaver
+3944,Yellow-mantled Weaver
+3948,Alpine Accentor
+3952,Grey-headed Social-weaver
+3954,Black-capped Social-weaver
+3958,Black-bellied Seedcracker
+3962,Red-faced Pytilia
+3964,Red- (Crimson-) winged Pytilia
+3966,Grey-headed Silverbill
+3968,Red-backed (SE DRC to NW Zambia) Mannikin
+3972,Speckle-fronted Weaver
+3974,Red-cheeked Cordonbleu
+3976,Blue-capped Cordonbleu
+3978,Purple Grenadier
+3980,Jos Plateau Indigobird
+3982,Quail-finch Indigobird
+3984,Long-tailed (Uelle/Exclamatons) Paradise-whydah
+3986,Togo Paradise-whydah
+3988,Cameroon Indigobird
+3990,Straw-tailed Whydah
+3992,Steel-blue Whydah
+3994,Black-faced Firefinch (Baka) Indigobird
+3996,Northern (Sahel) Paradise-whydah
+3998,Gold-breast (Jambandu) Indigobird
+4008,Common Redpoll
+4020,Brown-rumped Bunting
+4038,Somali Golden-breasted Bunting
+4048,Striolated Bunting
+4074,Kenya Yellow-rumped Seedeater
+4080,Papyrus Canary
+4084,Southern [East African] Citril
+4086,Southern (Kenya) Grosbeak-canary
+4088,West African Seedeater
+4094,Northern (Abyssinian) Grosbeak-canary
+4096,White-bellied Canary
+4098,Yellow-crowned Canary
+4102,Damara Canary
+4104,White-rumped Seedeater
+4116,Brown-rumped Seedeater
+4123,Agulhas Long-billed Lark
+4124,Benguela Long-billed Lark
+4125,Cape Long-billed Lark
+4126,Eastern Long-billed Lark
+4127,Karoo Long-billed Lark
+4128,Black-rumped Buttonquail
+4129,Southern Red-billed Hornbill
+4130,Lesser Cuckoo Cuckoo
+4131,Burchell's Coucal
+4132,Cape Parrot Parrot
+4133,Knysna Turaco
+4134,Southern Black Korhaan
+4136,Lesser Black-backed Gull
+4137,White-chinned Petrel
+4138,Rufous-winged Cisticola
+4139,Karoo Prinia
+4140,Cape Clapper Lark
+4142,Southern Grey-headed Sparrow
+4143,Elegant Tern
+4150,Shy Albatross
+4151,Atlantic Yellow-nosed Albatross
+4153,Manx Shearwater
+4864,Western Mountain (Grey-throated) Greenbul
+5256,Sharp-tailed Sandpiper
+5271,Ringed Teal
+5708,Yellow-throated Leaflove
+7863,Lesser Blue-eared Starling
+7865,Coastal Boubou
+7866,Tropical Boubou
+7867,East Coast Boubou
+7887,Northern Fiscal
+8090,Black and White Mannikin
+10002,Hybrid Damara/Red-billed Hornbill
+10003,Muscovy Duck
+10004,Domestic Goose
+10005,Hybrid Duck
+10006,Domestic Duck
+10007,Black Swan
+10013,Hybrid Red-eyed/Dark-capped Bulbul
+10014,Unidentified Duck
+10015,Hybrid Mallard Duck
+10019,Budgerigar Parrot
+10020,Wood Duck
+10031,fischeri x personatus Lovebird
+10033,Hybrid Blacksmith/White-crowned Lapwing
+10874,Northern Yellow White-eye
+10877,Nicholson's Pipit
+11763,Black Skimmer
+13163,Black-headed Waxbill
+14000,Marsh Tchagra
+14189,Black Kite
+14191,Chatterer Rufous
+14193,Ethiopian Boubou
+14226,Western Olivaceous Warbler

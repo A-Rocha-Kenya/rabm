@@ -33,9 +33,11 @@ find_pentad <- function(coordinates) {
   }
   ArgumentCheck::finishArgCheck(Check)
 
+  # Grid resolution
+  res <- 5/60
 
   format_pentad <- function(x) {
-    formatC(floor(abs(x+0.0001)/0.2)*0.2*100, width=4, flag="0")
+    formatC(floor(abs(x+0.0001)/res)*res*100, width=4, flag="0")
   }
   format_letter <- function(lat,lon){
     if (abs(lon)>100){

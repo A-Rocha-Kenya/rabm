@@ -24,12 +24,12 @@ find_pentad_within <- function(type,
                                file,
                                plotting=FALSE) {
 
-Check <- ArgumentCheck::newArgCheck()
+  # Check <- ArgumentCheck::newArgCheck()
   # if (!is.character(type) ||
   #     !type %in% c('coordinates', 'region', 'draw')) {
   #   ArgumentCheck::addError(msg = "'type' is incorrectly specified. Please use one of the following: 'coordinates', 'region', 'draw'",
   #                           argcheck = Check)
-  }
+  #}
   # if (typeof(coordinates) != 'list') {
   #   ArgumentCheck::addError(msg = "`coordinates` needs to be a dataframe/list",
   #                           argcheck = Check)
@@ -42,11 +42,11 @@ Check <- ArgumentCheck::newArgCheck()
   #   ArgumentCheck::addError(msg = "`coordinates` needs to have a column `lon`",
   #                           argcheck = Check)
   # }
-  if ( !is.logical(plotting) ) {
-    ArgumentCheck::addError(msg = "`plotting` needs to be `TRUE` or `FALSE`",
-                            argcheck = Check)
-  }
-  ArgumentCheck::finishArgCheck(Check)
+  # if ( !is.logical(plotting) ) {
+  #   ArgumentCheck::addError(msg = "`plotting` needs to be `TRUE` or `FALSE`",
+  #                          argcheck = Check)
+  #}
+  #ArgumentCheck::finishArgCheck(Check)
 
   if (type=='coordinates') {
     # Create the SpatialPolygons object of coordinates queries
@@ -68,23 +68,25 @@ Check <- ArgumentCheck::newArgCheck()
     coordinates <- data.frame(lat = region_query$x, lon = region_query$y)
   }
 
+  # Grid resolution
+  res <- 5/60
 
 
-  # Rounding to the grid resolution (0.2°)
+  # Rounding to the grid resolution (5/60°)
   format_pentad <- function(x) {
-    sign(x)*floor(abs(x)/0.2)*0.2
+    sign(x)*floor(abs(x)/res)*res
   }
 
 
   # Generate a list of all possible pentads covering the extremum of the coordinates queries
   pentads_possible<-list()
   i <- 1
-  for (i_lat in seq( format_pentad(min(coordinates$lat, na.rm = TRUE)), format_pentad(max(coordinates$lat, na.rm = TRUE)), 0.2)){
-    for (i_lon in seq( format_pentad(min(coordinates$lon, na.rm = TRUE)), format_pentad(max(coordinates$lon, na.rm = TRUE)), 0.2)){
+  for (i_lat in seq( format_pentad(min(coordinates$lat, na.rm = TRUE)), format_pentad(max(coordinates$lat, na.rm = TRUE)), res)){
+    for (i_lon in seq( format_pentad(min(coordinates$lon, na.rm = TRUE)), format_pentad(max(coordinates$lon, na.rm = TRUE)), res)){
       pentads_possible[[i]] <- sp::Polygons(list(
         sp::Polygon( cbind(
-          c(i_lat, i_lat+0.2, i_lat+0.2, i_lat, i_lat),
-          c(i_lon, i_lon, i_lon+0.2, i_lon+0.2, i_lon)
+          c(i_lat, i_lat+res, i_lat+res, i_lat, i_lat),
+          c(i_lon, i_lon, i_lon+res, i_lon+res, i_lon)
           ))
       ), i)
       i <- i + 1
@@ -109,6 +111,9 @@ Check <- ArgumentCheck::newArgCheck()
   p@data$pentad_name <- find_pentad(data.frame(lat=pentads_coord[,1],lon=pentads_coord[,2]))
 
 
+  # Export to geojson
+  # geojson::geo_write(geojson::as.geojson(p),'pentads.geojson')
+  # maptools::kmlPolygon(p[1], kmlfile="pentads.kml")
 
   if (plotting){
     leaflet::leaflet() %>%

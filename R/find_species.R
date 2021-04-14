@@ -26,7 +26,6 @@ find_species <- function(species_list, species_names) {
       )
     )))
 
-
   species_names %>%
     purrr::map_df( ~ dplyr::filter(
       df_to_search,
