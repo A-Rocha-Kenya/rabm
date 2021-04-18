@@ -7,6 +7,9 @@ test_that("Check 'find_pentad'", {
   coordinates <- data.frame(lat = 47.608013, lon = -12.335167)
   expect_equal(find_pentad(coordinates),'4735b1220')
 
+  coordinates <- data.frame(lat =0, lon = 0)
+  expect_equal(find_pentad(coordinates),'4735b1220')
+
   coordinates <- data.frame(lat = -2.21, lon = 37.1)
   expect_equal(find_pentad(coordinates),'0210_3705')
 

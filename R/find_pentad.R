@@ -37,13 +37,13 @@ find_pentad <- function(coordinates) {
     if (abs(lon)>100){
       stop("Longitude cannot be less than -100 or greater than 100")
     }
-    if (lat < 0 & lon > 0){
+    if (lat < 0 & lon >= 0){
       letter <- '_'
     } else if (lat < 0 & lon < 0) {
       letter <- 'a'
-    } else if (lat > 0  & lon < 0) {
+    } else if (lat >= 0  & lon < 0) {
       letter <- 'b'
-    } else if (lat > 0 & lon > 0) {
+    } else if (lat >= 0 & lon >= 0) {
       letter <- 'c'
     }
     letter
