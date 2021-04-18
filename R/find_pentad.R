@@ -33,12 +33,6 @@ find_pentad <- function(coordinates) {
   }
   ArgumentCheck::finishArgCheck(Check)
 
-  # Grid resolution
-  res <- 5/60
-
-  format_pentad <- function(x) {
-    formatC(floor(abs(x+0.0001)/res)*res*100, width=4, flag="0")
-  }
   format_letter <- function(lat,lon){
     if (abs(lon)>100){
       stop("Longitude cannot be less than -100 or greater than 100")
@@ -55,11 +49,20 @@ find_pentad <- function(coordinates) {
     letter
   }
 
+  format_pentad <- function(x) {
+    x <- abs(x+0.0001)
+    xDeg <- floor(x)
+    xSec <- floor((x - xDeg) * 60 / 5) * 5
+    paste0(formatC(xDeg, width=2, flag="0"), formatC(xSec, width=2, flag="0"))
+  }
+
   coordinates %>% dplyr::rowwise() %>%
-    dplyr::mutate(lat = ifelse(is.factor(lat), as.numeric(levels(lat)), lat)) %>%
-    dplyr::mutate(lon = ifelse(is.factor(lon), as.numeric(levels(lon)), lon)) %>%
+    dplyr::mutate(
+      lat = as.numeric(lat),
+      lon = as.numeric(lon),
+    ) %>%
     dplyr::mutate(letter = format_letter(lat,lon)) %>%
-    dplyr::mutate(pentad = paste(format_pentad(lat),letter,format_pentad(lon), sep='')) %>%
+    dplyr::mutate(pentad = paste0(format_pentad(lat),letter,format_pentad(lon))) %>%
     dplyr::pull()
 
 }
